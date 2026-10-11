@@ -207,3 +207,4 @@ public class MainActivity extends AppCompatActivity {
         edtHoTen.requestFocus();
     }
 }
+// Cập nhật Lab A6
